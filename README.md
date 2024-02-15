@@ -6,10 +6,12 @@ Clone of the famous Ecommere platform Myntra.
 To use this project --> 
 Clone the repository 
 npm i and npm run dev to start the server.
+npm start to start the express backend.
+
 
 Tech Stack -->
 React
-Redux
+Reduxjs
 
 This Project has a working landing page where you can add and remove products to and from the cart.The billing amount changes depending on the products present in cart. 
 
